@@ -2,6 +2,12 @@
 
 Docker Setup to run UI automation in Jenkins.
 
+[![Made with Docker](https://img.shields.io/badge/Made%20with-Docker-blue.svg)](https://www.ruby-lang.org/en/)
+[![Made with Ruby](https://img.shields.io/badge/Made%20with-Ruby-red.svg)](https://www.ruby-lang.org/en/)
+[![email me](https://img.shields.io/badge/Contact-Email-green.svg)](nareshnavinash@gmail.com)
+
+![alt text](jenkins-master/Docker-Jenkins.png)
+
 ## Initiate:
 To initiate the full setup,
 ```
